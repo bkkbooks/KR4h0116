@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0116/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0116_WYG_000-1a, image: WYG1385/WYG1385-0001a.png}
+body:
+  text: 吳都文粹續集總集類提要臣等謹案吳都文粹續集五十六巻補遺二巻明錢榖撰榖字叔寳長洲人是書乃續宋鄭虎臣吳都文粹而作朱彞尊詩話稱榖貧無典籍逰文徴明之門日取插架書讀之手抄異書最多至老不倦倣虎臣文粹輯成續編聞有三百巻其子功父繼之吳中文獻藉以不墜云云所稱巻數與此不符疑合功父續編言之或榖舊稿原有此數後復加刪汰以成今本彞尊乃據其初稿言之歟此本第五十三巻五十四巻俱佚第五十巻亦有殘缺檢勘他本並同流傳既久不免脫遺已非完本其中所標二十一門分類亦多未確葢能博而未能精者然書中所載自説部類家詩編文稿以至遺碑斷碣無不甄羅其採輯之富視鄭書㡬増至十倍學者欲徴文考獻要必於是乎取資焉乾隆四十三年七月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:d4341e95286cc9e608dfe39cb8d72fb591340b02c986d8a7ea320d1e71aa0cca
+metadata:
+  title: 吳都文粹續集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:38:01.384716'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0116/KR4h0116_000.txt
+hash: sha256:8756deb07baf05f19482522b73f0c826c2ad96e1671e9ac97c33dab592b47a6c

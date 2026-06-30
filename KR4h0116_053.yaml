@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0116/krp/v1/juan/53
+seq: 53
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0116_WYG_053-1a, image: WYG1386/WYG1386-0636a.png}
+body:
+  text: 吳都文粹續集卷五十三明錢榖撰全卷原闕吳都文粹續集卷五十三
+  hash: sha256:2d6ec8b236a422bfa1aa2ff0dd9afce79fe9c6402d4acbd6faafdc8339f74d2b
+metadata:
+  title: 吳都文粹續集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:38:01.384716'
+  juan_title: 卷五十三全卷原闕
+  source:
+    repository: kanripo
+    path: KR4h0116/KR4h0116_053.txt
+hash: sha256:d28042e4b24409b7062f87d315999eb53c58948ed97ab76d8c36e53ac4ab7f35
