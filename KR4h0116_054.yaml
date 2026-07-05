@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4h0116_WYG_054-1a, image: WYG1386/WYG1386-0637c.png}
 body:
-  text: 吳都文粹續集卷五十四明錢榖撰全卷原闕吳都文粹續集卷五十四
-  hash: sha256:42b377ff27435c55bd71c515efe89cd9063a1246e24dd30ccdda27a4b0157e78
+  text: 呉都文粹續集卷五十四明錢榖撰全卷原闕呉都文粹續集巻五十四
+  hash: sha256:80c11229c1f3315a6fabcb5dac379a9636ba26d6c912d9002165dc315a85d88e
 metadata:
   title: 吳都文粹續集
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4h0116/KR4h0116_054.txt
-hash: sha256:dcacd668ff5db6a4e6486480bcafcd4babaab633c8a099f92cedddd003a96806
+hash: sha256:12c1ef3ec9a4472b6f4c07640945dc0287413a200036c26cff239a92a34cc46a
